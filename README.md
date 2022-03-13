@@ -10,6 +10,10 @@
 ### 💻 My Skills
 <br>
   
+  <p align="center">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>  
+  </p>
+  
   <p  align="center">
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>  
@@ -41,4 +45,16 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="25">
+</p>
+
+<h2 align="center">
+  You can find me on  
+</h2>
+
+<p align="center">
+  <a target="_blank" href="mailto:muhammadxxz7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
+  &nbsp;
+  <a target="_blank" href="https://www.instagram.com/m_adi_sptro/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
+  &nbsp;
+  <a target="_blank" href="https://wa.me/085748314069"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"></a>
 </p>

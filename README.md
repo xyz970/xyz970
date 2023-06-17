@@ -56,5 +56,5 @@
   &nbsp;
   <a target="_blank" href="https://www.instagram.com/m_adi_sptro/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
   &nbsp;
-  <a target="_blank" href="https://wa.me/085748314069"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"></a>
+  <a target="_blank" href="https://wa.me/+6285748314069"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"></a>
 </p>

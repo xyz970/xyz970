@@ -5,7 +5,8 @@
 ### How about me?
 
 - &nbsp; I Love everything about technology..
-- 💻 &nbsp; I'm still study on State Polytechnic of Jember..
+- 💻 &nbsp; I'm still study at State Polytechnic of Jember..
+- &nbsp;<a href="instagram.com/_irmeliagst">❤❤❤❤</a>
 
 ### 💻 My Skills
 <br>

@@ -6,7 +6,7 @@
 
 - &nbsp; I Love everything about technology..
 - 💻 &nbsp; I'm still study at State Polytechnic of Jember..
-- &nbsp;<a href="instagram.com/_irmeliagst">❤❤❤❤</a>
+- &nbsp;<a style="text-decoration:none" href="https://instagram.com/_irmeliagst">❤❤❤❤</a>
 
 ### 💻 My Skills
 <br>

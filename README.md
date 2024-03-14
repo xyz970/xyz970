@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="25">
 </p>
+<figure><embed src="https://wakatime.com/share/@2e3c274f-9d3e-4961-9249-09ad2fcdba88/daa4b7df-ccb2-4285-8a6a-bbc6b57873d0.svg"></embed></figure>
 
 <h2 align="center">
   You can find me on  

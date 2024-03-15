@@ -6,11 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="heart-love.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/mhmmdadisptr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
@@ -27,7 +23,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=laravel" height="36" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"  />
@@ -42,9 +38,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
   <img width="12" />
@@ -55,7 +48,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/cxwluuqm2aumgtu5qtybukiow">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=cxwluuqm2aumgtu5qtybukiow&count=5&unique=true" alt="Spotify recently played"  />
   </a>

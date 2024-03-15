@@ -1,72 +1,75 @@
-<h1 align="center">Hi 👋, I'm Muhammad Adi Saputro</h1>
-<h3 align="center">A Charming Javanese Person</h3>
+<h2 align="center">Hi 👋, I'm Muhammad Adi Saputro</h2>
 
-- 🔭 I’m currently learning on **State Polytechnic Of Jember**
+###
 
-- 🌱 I’m currently learning **DevOps Techstack**
+<p align="center">A Charming Javanese Person</p>
 
-- 📝 I regularly write articles on [https://medium.com/@adisptro](https://medium.com/@adisptro)
+###
 
-- 💬 Ask me about **php-laravel, py-flask, js-vanilla**
+<img align="right" height="300" src="heart-love.gif"  />
 
-- 📫 How to reach me **muhammadxxz7@gmail.com**
+###
 
-- ⚡ Fun fact **I'm has senku brain (aku berotak senku)**
+<div align="center">
+  <a href="https://www.linkedin.com/in/mhmmdadisptr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:muhammadxxz7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/mhmmd.adi_sptro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@adisptro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="medium logo"  />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mhmmdadisptr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmmdadisptr" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad.adisaputro.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.adisaputro.58" height="30" width="40" /></a>
-<a href="https://instagram.com/mhmmd.adi_sptro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmmd.adi_sptro" height="30" width="40" /></a>
-<a href="https://medium.com/@adisptro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adisptro" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a target="_blank"
-        rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40"
-            height="40" /> </a> <a target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
-    <a  target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a> <a target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-            height="40" /> </a> <a target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-            height="40" /> </a> <a  target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a  target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-       target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"
-            height="40" /> </a> <a  target="_blank" rel="noreferrer"> <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg"
-            alt="laravel" width="40" height="40" /> </a> <a  target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40"
-            height="40" /> </a> <a target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
-            height="40" /> </a> <a  target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a  target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a  target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a> <a  target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
-            width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-            height="40" /> </a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel" height="36" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="36" alt="codeigniter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="36" alt="jquery logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xyz970&show_icons=true&locale=en&layout=compact" alt="xyz970" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyz970&show_icons=true&locale=en" alt="xyz970" /></p>
+<div align="center">
+  <a href="https://open.spotify.com/user/cxwluuqm2aumgtu5qtybukiow">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cxwluuqm2aumgtu5qtybukiow&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xyz970&" alt="xyz970" /></p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xyz970&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xyz970&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/xyz970/xyz970/output/snake.svg" alt="Snake animation" />
+
+###

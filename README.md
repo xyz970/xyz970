@@ -6,11 +6,11 @@
 
 ###
 
-<img align="right" height="300" src="heart-love.gif"  />
+<img align="right" height="200" src="heart-love.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/mhmmdadisptr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
@@ -27,7 +27,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=laravel" height="36" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"  />
@@ -55,7 +55,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/cxwluuqm2aumgtu5qtybukiow">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=cxwluuqm2aumgtu5qtybukiow&count=5&unique=true" alt="Spotify recently played"  />
   </a>

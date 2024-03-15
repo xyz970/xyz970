@@ -34,10 +34,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="flutter logo"  />
-  <img width="12" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
   <img width="12" />

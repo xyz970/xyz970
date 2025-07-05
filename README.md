@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="36" alt="codeigniter logo"  />
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="12" />
@@ -42,7 +42,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="36" alt="jquery logo"  />
 </div>
 
 ###

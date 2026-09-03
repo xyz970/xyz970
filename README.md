@@ -49,7 +49,11 @@
 <div align="center">
   
   <a href="https://open.spotify.com/user/cxwluuqm2aumgtu5qtybukiow">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cxwluuqm2aumgtu5qtybukiow&count=5&unique=true" alt="Spotify recently played"  />
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=cxwluuqm2aumgtu5qtybukiow&amp;theme=dark&amp;count=6&amp;width=450&amp;radius=13&amp;time=0&amp;avatar=0&amp;duration=1&amp;profile=off&amp;username=off" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=cxwluuqm2aumgtu5qtybukiow&amp;theme=light&amp;count=6&amp;width=450&amp;radius=13&amp;time=0&amp;avatar=0&amp;duration=1&amp;profile=off&amp;username=off" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=cxwluuqm2aumgtu5qtybukiow&amp;theme=dark&amp;count=6&amp;width=450&amp;radius=13&amp;time=0&amp;avatar=0&amp;duration=1&amp;profile=off&amp;username=off" alt="Spotify recently played" width="450" />
+</picture>
   </a>
 </div>
 
